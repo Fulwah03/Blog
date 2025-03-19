@@ -4,13 +4,31 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-03-19T21:49:30+03:00</lastmod>
+    <lastmod>2025-03-19T23:19:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/my_life_experiences/mycybersecurityjourney/</loc>
+    <lastmod>2025-03-19T23:19:00+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-03-19T21:49:30+03:00</lastmod>
+    <lastmod>2025-03-19T23:19:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/my_life_experiences/whyichoosedcs/</loc>
+    <lastmod>2025-03-19T23:18:07+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/cs_studemts/addvises_for_newcs_students/</loc>
+    <lastmod>2025-03-19T23:07:26+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
